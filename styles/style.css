@@ -187,3 +187,6 @@ main .about{
     padding-left: 30px ;
     padding-top: 30px;
 }
+.resume .container{
+    display: flex;
+}
